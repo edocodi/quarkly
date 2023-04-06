@@ -31,7 +31,7 @@ export default (() => {
 				width="100%"
 			/>
 			<Link transition="opacity 200ms ease" quarkly-title="Link" href="/" position="relative">
-				<Image src="https://uploads.quarkly.io/5f44d0da669357001e60ed14/images/default-website-logo.svg?v=2020-11-06T17:26:21.226Z" width="120px" z-index="3" />
+				<Image src="https://uploads.quarkly.io/642e1facbf72b300207ce15b/images/vdv_logo.PNG?v=2023-04-06T06:09:10.691Z" width="120px" z-index="3" />
 			</Link>
 			<Components.BurgerMenu md-display="flex" md-align-items="center" md-justify-content="flex-end">
 				<Override slot="icon-open" md-position="fixed" md-top="18px" md-right="18px" />
@@ -153,7 +153,7 @@ export default (() => {
 				lg-font="--headline2"
 				color="--light"
 			>
-				Make a Difference.
+				Vastar Industry
 			</Text>
 			<Text
 				sm-text-align="center"
@@ -164,7 +164,7 @@ export default (() => {
 				color="--light"
 				margin="10px 0px 35px 0px"
 			>
-				Supercharge your personal and professional success with a beautifully crafted website.
+				Looks no further for your ball valve needs.
 			</Text>
 			<Link
 				text-decoration-line="initial"
@@ -225,7 +225,7 @@ export default (() => {
 				font="normal 500 28px/1.2 'AvenirNextCyrRegular', sans-serif"
 				margin="0px 0px 0px 0px"
 			>
-				We empower creators to do their best work while maintaining our uncompromising values while we grow.
+				We empower users to do their best work while maintaining our uncompromising values while we grow.
 			</Text>
 		</Section>
 		<Section
@@ -290,7 +290,7 @@ export default (() => {
 						opacity="0.6"
 						lg-text-align="left"
 					>
-						It all begins with an idea. Maybe you want to launch a business. Maybe you want to turn a hobby into something bigger. Or maybe you have a creative project to share with the world. Whatever it is, the way you tell your story online can make all the difference.
+						Over 30 years ago, we were among the earliest players who started working on ball valves following the most stringent European standards. 30 years later, we are one of the best ball valve manufacturers that stand behind tons of critical industrial applications and everyday use.
 					</Text>
 					<Link
 						href="/about"
@@ -315,7 +315,7 @@ export default (() => {
 					transition="background --transitionDuration-normal --transitionTimingFunction-easeInOut 0s"
 					md-order="-1"
 					width="100%"
-					background="--color-lightD2 url(https://uploads.quarkly.io/5f44d0da669357001e60ed14/images/default-website-illustration-sea-first.svg?v=2020-11-06T16:37:39.391Z) center center/100% no-repeat"
+					background="--color-lightD2 url(https://uploads.quarkly.io/642e1facbf72b300207ce15b/images/hdl.PNG?v=2023-04-06T06:40:40.275Z) center center/100% no-repeat"
 					margin="0px 0px 0px 0px"
 					lg-order="-1"
 				/>
@@ -338,7 +338,7 @@ export default (() => {
 					hover-background="--color-lightD2 url(https://uploads.quarkly.io/5f44d0da669357001e60ed14/images/default-website-illustration-sea-second.svg?v=2020-11-06T17:14:59.136Z) center center/110% no-repeat"
 					transition="background --transitionDuration-normal --transitionTimingFunction-easeInOut 0s"
 					width="100%"
-					background="--color-lightD2 url(https://uploads.quarkly.io/5f44d0da669357001e60ed14/images/default-website-illustration-sea-second.svg?v=2020-11-06T17:14:59.136Z) center center/100% no-repeat"
+					background="--color-lightD2 url(https://uploads.quarkly.io/642e1facbf72b300207ce15b/images/hdl2.PNG?v=2023-04-06T06:40:40.257Z) center center/100% no-repeat"
 				/>
 				<Box
 					display="flex"
@@ -381,7 +381,7 @@ export default (() => {
 						margin="0px 0px 20px 0px"
 						color="--darkL2"
 					>
-						It all begins with an idea. Maybe you want to launch a business. Maybe you want to turn a hobby into something bigger. Or maybe you have a creative project to share with the world. Whatever it is, the way you tell your story online can make all the difference.
+						Diligence, honesty, quality and service are always our top priorities across the whole company, from engineering to production to sales.
 					</Text>
 					<Link
 						color="--light"
